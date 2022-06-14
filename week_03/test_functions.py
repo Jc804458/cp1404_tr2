@@ -1,9 +1,13 @@
+"""
+Testing for functions
+"""
+
 def celsius_to_fahrenheit(celsius):
     return celsius * 1.8 + 32.0
 
+
 def is_even(number):
     return number % 2 == 0
-
 
 
 def main():
